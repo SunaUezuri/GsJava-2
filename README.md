@@ -70,11 +70,11 @@ SELECT_BY_EMAIL_SQL.
    git clone <url-do-repositorio>
 
 2. **Ferramenta**:
-   IntelliJ
+3. 
    Recomenda-se o uso do IntelliJ pois ele pode fornecer todas as funcionalidade e dependências necessárias sem chances de haver algum erro grave.
 
-3. **Dependências**:
-   Lombok
+4. **Dependências**:
+
    No IntelliJ tenha certeza de ter instalado a extensão do Lombok pois ela é fundamental para o funcionamento do sistema.
 
    "Onde Baixar?"
@@ -88,7 +88,7 @@ SELECT_BY_EMAIL_SQL.
 ![Captura de tela 2024-11-22 093400](https://github.com/user-attachments/assets/8490c6a3-a609-46d1-84d3-03aa7d7f9634)
 
 4. **Como rodar**:
-   Main
+
    Dentro da pasta src haverá o que chamamos de package com o nome "br.com.fiap.ecogenius", nele haverá outros pacotes que representam as camadas mencionadas anteriormente e um arquivo separado chamado "Main".
 
    Para rodar o programa basta clicar nesse arquivo Main e clicar no botão verde de play.
