@@ -38,12 +38,12 @@ Em um contexto onde o Brasil enfrenta desafios ambientais significativos, como a
 
 - **Java**: Linguagem principal do projeto.
 - **Maven**: Gerenciador de dependências.
-- **Banco de Dados Oracle**: Utilizado para armazenar informações de usuários e ideias.
+- **Banco de Dados Oracle**: Utilizado para armazenar informações.
 
 ## 📂 Estrutura do Projeto
 
 - **`pom.xml`**: Configuração do Maven e gerenciamento de dependências.
-- **`script.sql`**: Scripts de criação de tabelas para usuários e ideias no banco de dados.
+- **`script.sql`**: Scripts de criação de tabelas para o banco de dados.
 - **`equipe.txt`**: Informações sobre a equipe de desenvolvimento.
 - **`Camada Model`**: É onde estão todas as classes principais do projeto, classes que estarão representando as tabelas do banco de dados, além de classes ENUM para denominar certos atributos, é nessa camada que está a a base do projeto e servirá de estrutura para o resto dele.
 - **`Camada Factory`**: Camada que contém uma classe única, ela é a responsável por fazer a conexão com o banco de dados da aplicação, nela estão os dados necessários para o acesso e utilização das classes da próxima camada
