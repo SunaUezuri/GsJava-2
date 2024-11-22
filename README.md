@@ -69,6 +69,9 @@ SELECT_BY_EMAIL_SQL.
    ```bash
    git clone <url-do-repositorio>
 
+**IMPORTANTE**
+**Há uma chance de ao fazer o clone o programa não funcionar corretamente devido ao plugin do Lombok que por algum motivo ao ser enviado ao Github e depois ser clonado o programa não reconhece mais o Lombok, caso isso ocorra instale o zip do projeto no mesmo local onde você consegue a URL.**
+
 2. **Ferramenta**:
 3. 
    Recomenda-se o uso do IntelliJ pois ele pode fornecer todas as funcionalidade e dependências necessárias sem chances de haver algum erro grave.
