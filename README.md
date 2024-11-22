@@ -90,10 +90,17 @@ SELECT_BY_EMAIL_SQL.
    
 ![Captura de tela 2024-11-22 093400](https://github.com/user-attachments/assets/8490c6a3-a609-46d1-84d3-03aa7d7f9634)
 
-4. **Como rodar**:
+5. **Como rodar**:
 
    Dentro da pasta src haverá o que chamamos de package com o nome "br.com.fiap.ecogenius", nele haverá outros pacotes que representam as camadas mencionadas anteriormente e um arquivo separado chamado "Main".
 
    Para rodar o programa basta clicar nesse arquivo Main e clicar no botão verde de play.
   
 ![Captura de tela 2024-11-22 094042](https://github.com/user-attachments/assets/088f7ad6-ba32-416f-bcc0-eb66ee4cdcd0)
+
+## Links
+
+1. **Repositório**: https://github.com/SunaUezuri/GsJava-2.git
+2. **Apresentação do projeto**: https://youtu.be/E0Mb2CHRq4I?si=bUvtqdF6ixGsXlTa
+3. **Repositório do front**: https://github.com/Global-Solution-CadeGenius/eco-genius.git
+4. **Vídeo Pitch**: 
