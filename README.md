@@ -103,4 +103,4 @@ SELECT_BY_EMAIL_SQL.
 1. **Repositório**: https://github.com/SunaUezuri/GsJava-2.git
 2. **Apresentação do projeto**: https://youtu.be/E0Mb2CHRq4I?si=bUvtqdF6ixGsXlTa
 3. **Repositório do front**: https://github.com/Global-Solution-CadeGenius/eco-genius.git
-4. **Vídeo Pitch**: 
+4. **Vídeo Pitch**: https://youtu.be/9nCYpcD7cwA?si=aRJ2HbO9xNouQHXU
